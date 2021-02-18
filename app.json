@@ -1,0 +1,7 @@
+{
+  "name": "swiftmill",
+  "description": " Discord Music Bot built with discord.js",
+  "repository": "https://github.com/eritislami/swiftmill",
+  "logo": "",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
